@@ -5,7 +5,7 @@ AndaLinux is an open-source operating system inspired by the Linux TLE operating
 ## Features
 
 - Designed to cater to the needs of Thai users and organizations.
-- Based on the Linux TLE operating system, with modifications and enhancements.
+- Based on the Ubuntu operating system, with modifications and enhancements.
 - Supports the Thai language and provides a localized user experience.
 - Aims to reduce software costs and dependence on foreign software.
 - Encourages local software development and innovation.
